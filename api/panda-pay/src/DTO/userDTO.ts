@@ -5,4 +5,5 @@ export class UserDTO{
     email: string;
     password: string;
     phone: string;
+    balance: number;
 }
